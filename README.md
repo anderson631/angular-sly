@@ -29,7 +29,7 @@ Set `sly-horizontal-repeat` or `sly-vertical-repeat` as an attribute of the tag 
 
 ```
 {
-  horizontal: 1 // or 0 depending on sly-horizontal or sly-vertical
+  	horizontal: 1, // or 0 depending on sly-horizontal or sly-vertical
 	itemNav: 'basic',
 	smart: 1,
 	activateOn: 'click',
